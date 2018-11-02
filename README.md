@@ -1,2 +1,2 @@
-# Lets-Make-a-Pull-Request
-Enjoy to make pull request :)
+# CodOpen
+Official GitHub repository for Mozzila Tech Club at Galgotias College of Engineering and Technology
